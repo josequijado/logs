@@ -1,13 +1,1 @@
-2024-12-05 15:56:41 - INFO - Clase DataProcessor inicializada correctamente.
-2024-12-05 15:56:41 - INFO - Iniciando procesamiento de datos.
-2024-12-05 15:56:41 - DEBUG - Intentando agregar columna 'NewColumn'.
-2024-12-05 15:56:41 - INFO - Columna 'NewColumn' agregada correctamente.
-2024-12-05 15:56:41 - DEBUG - Aplicando la función 'sqrt' a la columna 'NewColumn'.
-2024-12-05 15:56:41 - INFO - Función 'sqrt' aplicada correctamente a la columna 'NewColumn'.
-2024-12-05 15:56:41 - DEBUG - Aplicando la función 'log' a la columna 'NonExistentColumn'.
-2024-12-05 15:56:41 - WARNING - Columna 'NonExistentColumn' no encontrada: 'NonExistentColumn'
-2024-12-05 15:56:41 - DEBUG - Forzando un error crítico: división por cero.
-2024-12-05 15:56:41 - CRITICAL - Error crítico provocado: division by zero
-2024-12-05 15:56:41 - DEBUG - Intentando guardar el archivo en 'output_data.csv'.
-2024-12-05 15:56:41 - INFO - Archivo guardado correctamente en 'output_data.csv'.
-2024-12-05 15:56:41 - INFO - Procesamiento de datos finalizado.
+
